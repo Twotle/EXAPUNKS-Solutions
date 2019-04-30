@@ -15,8 +15,9 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
     <th>Level</th>
     <th>Cycles</th>
     <th>Size</th>
-    <th>Action</th>
-	<tr>
+    <th>Activity</th>
+  </tr>
+  <tr>
     <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Campaign/01_TWN1">Tutorial 1</a></td>
     <td>??</td>
     <td>??</td>
