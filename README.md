@@ -3,6 +3,7 @@
 My solutions and various "useful" snippets that I used in the game Exapunks by Zachtronics. Contains solutions for various workshop levels as well.
 </p>
 
+<h3>Shortcuts</h3>
 <ul>
   <li><a href="#campaign">Campaign Solutions</a></li>
   <li><a href="#battles">Battles</a></li>
