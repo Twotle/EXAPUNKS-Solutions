@@ -193,19 +193,19 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
     <th>Rank</th>
   </tr>
   <tr>
-    <td><a href="">mutex8021</a></td>
+    <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Battles/mutex8021">mutex8021</a></td>
     <td>S+</td>
   </tr>
   <tr>
-    <td><a href="">=plastered</a></td>
+    <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Battles/=plastered">=plastered</a></td>
     <td>S+</td>
   </tr>
   <tr>
-    <td><a href="">deadlock</a></td>
+    <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Battles/deadlock">deadlock</a></td>
     <td>S+</td>
   </tr>
   <tr>
-    <td><a href="">x10x10x</a></td>
+    <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Battles/x10x10x">x10x10x</a></td>
     <td>S+</td>
   </tr>
 </table>
