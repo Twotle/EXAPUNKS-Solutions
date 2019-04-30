@@ -1,5 +1,7 @@
-# EXAPUNKS-Solutions
+<h1>Solutions for EXAPUNKS</h1>
+<p>
 My solutions and various "useful" snippets that I used in the game Exapunks by Zachtronics. Contains solutions for various workshop levels as well.
+</p>
 
 <ul>
   <li><a href="#campaign">Campaign Solutions</a></li>
@@ -110,7 +112,7 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
   </tr>
   <tr>
     <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Campaign/16_TECRedshift">TEC Redshift</a></td>
-    <td>6952</td>
+    <td>6,952</td>
     <td>26</td>
     <td>5</td>
   </tr>
@@ -140,7 +142,7 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
   </tr>
   <tr>
     <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Campaign/21_SawayamaWonderdisc">Sawayama Wonderdisc</a></td>
-    <td>7604</td>
+    <td>7,604</td>
     <td>58</td>
     <td>64</td>
   </tr>
