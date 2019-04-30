@@ -182,6 +182,8 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
   </tr>
 </table>
 
+<hr></hr>
+
 <h3 id="battles">Battles</h3>
 <table>
   <tr>
@@ -205,7 +207,9 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
     <td>S+</td>
   </tr>
 </table>
-  
+
+<hr></hr>
+
 <h3 id="workshop">Workshop</h3>
 <table>
   <tr>
@@ -222,15 +226,16 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
     <td>2</td>
     <td><a href="https://steamcommunity.com/workshop/filedetails/?id=1494741626">BRAINFUCK</a></td>
   </tr>
-  
   <tr>
-    <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Workshop/U-Genx_Institute">U-Genx Institute - Genetic Coding</a></td>
+    <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Workshop/U-Genx_Institute" target="_blank">U-Genx Institute - Genetic Coding</a></td>
     <td>3,218</td>
     <td>35</td>
     <td>7</td>
-    <td><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1708430757">U-GENX</a></td>
+    <td><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1708430757" target="_blank">U-GENX</a></td>
   </tr>
 </table>
+
+<hr></hr>
 
 <h3 id="snippets">Snippets</h3>
 <table>
