@@ -3,9 +3,9 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
 
 <ul>
   <li><a href="#campaign">Campaign Solutions</a></li>
-  <li><a href="">Battles</a></li>
-  <li><a href="">Workshop</a></li>
-  <li><a href="">Snippets</a></li>
+  <li><a href="#battles">Battles</a></li>
+  <li><a href="#workshop">Workshop</a></li>
+  <li><a href="#snippets">Snippets</a></li>
 </ul>
 
 <hr></hr>
