@@ -1,0 +1,2 @@
+COPY M X
+COPY X M
