@@ -193,7 +193,7 @@ My solutions and various "useful" snippets that I used in the game Exapunks by Z
     <th>Rank</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Battles/mutex8021">mutex8021</a></td>
+    <td><a href="https://github.com/Twotle/EXAPUNKS-Solutions/tree/master/Battles/mute8021">mutex8021</a></td>
     <td>S+</td>
   </tr>
   <tr>
